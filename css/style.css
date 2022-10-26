@@ -1,0 +1,11 @@
+body{
+    font-family:Kanit;
+    background-color: #FF8C5E;
+    color: #61E8F0; 
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family:"Kanit";
+    font-size:30pt;
+}
+
