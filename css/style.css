@@ -14,7 +14,10 @@ header {
 }
 
 #hero {
+    color: #61E8F0;
+    background-color: #FF3010;
     text-align:center;
+    padding: 10px;
 }
 
 #hero img {
