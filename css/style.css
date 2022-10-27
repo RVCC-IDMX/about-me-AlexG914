@@ -13,3 +13,11 @@ header {
     text-align:center;
 }
 
+#hero {
+    text-align:center;
+}
+
+#hero img {
+    width:300px;
+}
+
