@@ -1,7 +1,7 @@
 body{
     font-family:Kanit;
-    background-color: #FF8C5E;
-    color: #61E8F0; 
+    background-color: #D028E0;
+    color: #56D7F5; 
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -17,9 +17,9 @@ header {
 }
 
 #hero, footer {
-    color: #61E8F0;
-    border: 2px solid #61E8F0;
-    background-color: #FF3010;
+    color: #56D7F5;
+    border: 2px solid #56D7F5;
+    background-color: #000;
     text-align:center;
     padding: 10px;
 }
@@ -55,6 +55,7 @@ header {
 #gallery figure {
     text-align: center;
 }
+
 
 /* Literature */
 #lit {
