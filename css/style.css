@@ -7,9 +7,15 @@ body{
 h1, h2, h3, h4, h5, h6{
     font-family:"Kanit";
     text-align:center;
+    font-size:40pt;
 } 
+
 h1 { 
     font-size:40pt;
+}
+
+h2 {
+    margin: .1em;
 }
 
 header {
@@ -38,6 +44,12 @@ header {
 }
 
 /* Hobbies */
+
+section#hobbies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 
 /* Gallery */
@@ -81,13 +93,19 @@ header {
     float: left;
     font-size:3em;
 }
-    
 
 /* Contact Form */
 
 #formElements {
     display:grid;
     row-gap:.5em;
+}
+
+figcaption {
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 2rem;
 }
 
 #contact {
